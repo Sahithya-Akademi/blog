@@ -213,6 +213,15 @@ h4:after {
     text-decoration: none;
 }
 
+.rmenu {
+    padding: 0px 10px;
+    line-height: 50px;
+    margin: 5px 0px;
+    border-bottom: 1px solid #000;
+}
+.rmenu:hover {
+    border-bottom: 1px solid red;
+}
 /* Header */
 
 .header-container {
